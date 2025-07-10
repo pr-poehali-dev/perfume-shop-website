@@ -13,6 +13,7 @@ export const HeroSection = ({ onNavigateToCatalog }: HeroSectionProps) => {
         </h2>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
           Откройте для себя мир роскошных ароматов из лучших парфюмерных домов
+          по розничным и оптовым ценам{" "}
         </p>
         <Button
           size="lg"

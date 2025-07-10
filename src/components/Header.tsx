@@ -23,7 +23,7 @@ export const Header = ({ activeSection, onNavigate }: HeaderProps) => {
               <Icon name="Sparkles" size={16} className="text-white" />
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-luxury-dark to-luxury-gold bg-clip-text text-transparent">
-              PERFUME BOUTIQUE
+              ARA PERFUME
             </h1>
           </div>
 
